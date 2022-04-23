@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://fyin.top/about/</loc>
+    <loc>https://fyin.top/2017/08/26/%E6%B5%8B%E8%AF%95%E9%A1%B5/</loc>
     
     <lastmod>2022-04-23</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://fyin.top/2021/06/06/%E6%B5%8B%E8%AF%95%E9%A1%B5/</loc>
+    <loc>https://fyin.top/about/</loc>
     
     <lastmod>2022-04-23</lastmod>
     
@@ -124,14 +124,14 @@
   </url>
   
   <url>
-    <loc>https://fyin.top/tags/%E9%9F%B3%E4%B9%90/</loc>
+    <loc>https://fyin.top/tags/Test/</loc>
     <lastmod>2022-04-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://fyin.top/tags/Test/</loc>
+    <loc>https://fyin.top/tags/%E9%9F%B3%E4%B9%90/</loc>
     <lastmod>2022-04-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
