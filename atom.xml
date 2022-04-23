@@ -6,7 +6,7 @@
   <link href="https://fyin.top/atom.xml" rel="self"/>
   
   <link href="https://fyin.top/"/>
-  <updated>2021-06-05T20:16:22.767Z</updated>
+  <updated>2022-04-23T07:40:26.223Z</updated>
   <id>https://fyin.top/</id>
   
   <author>
@@ -21,24 +21,21 @@
     <link href="https://fyin.top/2021/06/06/%E6%B5%8B%E8%AF%95%E9%A1%B5/"/>
     <id>https://fyin.top/2021/06/06/%E6%B5%8B%E8%AF%95%E9%A1%B5/</id>
     <published>2021-06-05T20:13:39.000Z</published>
-    <updated>2021-06-05T20:16:22.767Z</updated>
+    <updated>2022-04-23T07:40:26.223Z</updated>
     
-    <content type="html"><![CDATA[<p>这个测试</p><p>包括：数学公式、tag、<br>$e=mc^2$</p>]]></content>
+    <content type="html"><![CDATA[<p>这个测试页面包括：公式、表哥、链接、图片</p><h1 id="数学公式"><a href="#数学公式" class="headerlink" title="数学公式"></a>数学公式</h1><p>行内公式，比如<mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.186ex" xmlns="http://www.w3.org/2000/svg" width="8.025ex" height="2.072ex" role="img" focusable="false" viewBox="0 -833.9 3547.1 915.9"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D452" d="M39 168Q39 225 58 272T107 350T174 402T244 433T307 442H310Q355 442 388 420T421 355Q421 265 310 237Q261 224 176 223Q139 223 138 221Q138 219 132 186T125 128Q125 81 146 54T209 26T302 45T394 111Q403 121 406 121Q410 121 419 112T429 98T420 82T390 55T344 24T281 -1T205 -11Q126 -11 83 42T39 168ZM373 353Q367 405 305 405Q272 405 244 391T199 357T170 316T154 280T149 261Q149 260 169 260Q282 260 327 284T373 353Z"></path></g><g data-mml-node="mo" transform="translate(743.8,0)"><path data-c="3D" d="M56 347Q56 360 70 367H707Q722 359 722 347Q722 336 708 328L390 327H72Q56 332 56 347ZM56 153Q56 168 72 173H708Q722 163 722 153Q722 140 707 133H70Q56 140 56 153Z"></path></g><g data-mml-node="mi" transform="translate(1799.6,0)"><path data-c="1D45A" d="M21 287Q22 293 24 303T36 341T56 388T88 425T132 442T175 435T205 417T221 395T229 376L231 369Q231 367 232 367L243 378Q303 442 384 442Q401 442 415 440T441 433T460 423T475 411T485 398T493 385T497 373T500 364T502 357L510 367Q573 442 659 442Q713 442 746 415T780 336Q780 285 742 178T704 50Q705 36 709 31T724 26Q752 26 776 56T815 138Q818 149 821 151T837 153Q857 153 857 145Q857 144 853 130Q845 101 831 73T785 17T716 -10Q669 -10 648 17T627 73Q627 92 663 193T700 345Q700 404 656 404H651Q565 404 506 303L499 291L466 157Q433 26 428 16Q415 -11 385 -11Q372 -11 364 -4T353 8T350 18Q350 29 384 161L420 307Q423 322 423 345Q423 404 379 404H374Q288 404 229 303L222 291L189 157Q156 26 151 16Q138 -11 108 -11Q95 -11 87 -5T76 7T74 17Q74 30 112 181Q151 335 151 342Q154 357 154 369Q154 405 129 405Q107 405 92 377T69 316T57 280Q55 278 41 278H27Q21 284 21 287Z"></path></g><g data-mml-node="msup" transform="translate(2677.6,0)"><g data-mml-node="mi"><path data-c="1D450" d="M34 159Q34 268 120 355T306 442Q362 442 394 418T427 355Q427 326 408 306T360 285Q341 285 330 295T319 325T330 359T352 380T366 386H367Q367 388 361 392T340 400T306 404Q276 404 249 390Q228 381 206 359Q162 315 142 235T121 119Q121 73 147 50Q169 26 205 26H209Q321 26 394 111Q403 121 406 121Q410 121 419 112T429 98T420 83T391 55T346 25T282 0T202 -11Q127 -11 81 37T34 159Z"></path></g><g data-mml-node="mn" transform="translate(466,363) scale(0.707)"><path data-c="32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"></path></g></g></g></g></svg></mjx-container></p><p>行间公式，例如：<br><mjx-container class="MathJax" jax="SVG" display="true"><svg style="vertical-align: -0.186ex" xmlns="http://www.w3.org/2000/svg" width="11.196ex" height="2.177ex" role="img" focusable="false" viewBox="0 -880.4 4948.6 962.4"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="msup"><g data-mml-node="mi"><path data-c="1D452" d="M39 168Q39 225 58 272T107 350T174 402T244 433T307 442H310Q355 442 388 420T421 355Q421 265 310 237Q261 224 176 223Q139 223 138 221Q138 219 132 186T125 128Q125 81 146 54T209 26T302 45T394 111Q403 121 406 121Q410 121 419 112T429 98T420 82T390 55T344 24T281 -1T205 -11Q126 -11 83 42T39 168ZM373 353Q367 405 305 405Q272 405 244 391T199 357T170 316T154 280T149 261Q149 260 169 260Q282 260 327 284T373 353Z"></path></g><g data-mml-node="TeXAtom" transform="translate(499,413) scale(0.707)" data-mjx-texclass="ORD"><g data-mml-node="mi"><path data-c="1D70B" d="M132 -11Q98 -11 98 22V33L111 61Q186 219 220 334L228 358H196Q158 358 142 355T103 336Q92 329 81 318T62 297T53 285Q51 284 38 284Q19 284 19 294Q19 300 38 329T93 391T164 429Q171 431 389 431Q549 431 553 430Q573 423 573 402Q573 371 541 360Q535 358 472 358H408L405 341Q393 269 393 222Q393 170 402 129T421 65T431 37Q431 20 417 5T381 -10Q370 -10 363 -7T347 17T331 77Q330 86 330 121Q330 170 339 226T357 318T367 358H269L268 354Q268 351 249 275T206 114T175 17Q164 -11 132 -11Z"></path></g><g data-mml-node="mo" transform="translate(570,0)"><path data-c="22C5" d="M78 250Q78 274 95 292T138 310Q162 310 180 294T199 251Q199 226 182 208T139 190T96 207T78 250Z"></path></g><g data-mml-node="mi" transform="translate(848,0)"><path data-c="1D456" d="M184 600Q184 624 203 642T247 661Q265 661 277 649T290 619Q290 596 270 577T226 557Q211 557 198 567T184 600ZM21 287Q21 295 30 318T54 369T98 420T158 442Q197 442 223 419T250 357Q250 340 236 301T196 196T154 83Q149 61 149 51Q149 26 166 26Q175 26 185 29T208 43T235 78T260 137Q263 149 265 151T282 153Q302 153 302 143Q302 135 293 112T268 61T223 11T161 -11Q129 -11 102 10T74 74Q74 91 79 106T122 220Q160 321 166 341T173 380Q173 404 156 404H154Q124 404 99 371T61 287Q60 286 59 284T58 281T56 279T53 278T49 278T41 278H27Q21 284 21 287Z"></path></g></g></g><g data-mml-node="mo" transform="translate(1614.8,0)"><path data-c="2B" d="M56 237T56 250T70 270H369V420L370 570Q380 583 389 583Q402 583 409 568V270H707Q722 262 722 250T707 230H409V-68Q401 -82 391 -82H389H387Q375 -82 369 -68V230H70Q56 237 56 250Z"></path></g><g data-mml-node="mn" transform="translate(2615,0)"><path data-c="31" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"></path></g><g data-mml-node="mo" transform="translate(3392.8,0)"><path data-c="3D" d="M56 347Q56 360 70 367H707Q722 359 722 347Q722 336 708 328L390 327H72Q56 332 56 347ZM56 153Q56 168 72 173H708Q722 163 722 153Q722 140 707 133H70Q56 140 56 153Z"></path></g><g data-mml-node="mn" transform="translate(4448.6,0)"><path data-c="30" d="M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z"></path></g></g></g></svg></mjx-container></p><h1 id="表格"><a href="#表格" class="headerlink" title="表格"></a>表格</h1><table><thead><tr><th>x</th><th>y</th><th>z</th></tr></thead><tbody><tr><td>0</td><td>1</td><td>1</td></tr><tr><td>1</td><td>0</td><td>0</td></tr></tbody></table><h1 id="图片"><a href="#图片" class="headerlink" title="图片"></a>图片</h1><p><img src="https://pic1.zhimg.com/80/v2-0a0bf6ec3021f7e75fcc3a0fc4863544_r.jpg?source=32738c0c" alt="图例" title="例子"></p><h1 id="链接"><a href="#链接" class="headerlink" title="链接"></a>链接</h1><p>this theme is based on <a href="https://github.com/lotabout/hexo-theme-noise">noise</a></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;这个测试&lt;/p&gt;
-&lt;p&gt;包括：数学公式、tag、&lt;br&gt;$e=mc^2$&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;p&gt;这个测试页面包括：公式、表哥、链接、图片&lt;/p&gt;
+&lt;h1 id=&quot;数学公式&quot;&gt;&lt;a href=&quot;#数学公式&quot; class=&quot;headerlink&quot; title=&quot;数学公式&quot;&gt;&lt;/a&gt;数学公式&lt;/h1&gt;&lt;p&gt;行内公式，比如&lt;mjx-container class=&quot;MathJ</summary>
       
     
     
     
     
     <category term="Test" scheme="https://fyin.top/tags/Test/"/>
-    
-    <category term="数学" scheme="https://fyin.top/tags/%E6%95%B0%E5%AD%A6/"/>
     
   </entry>
   
@@ -47,7 +44,7 @@
     <link href="https://fyin.top/2019/05/12/C-%E4%B9%8B%E9%A1%BA%E5%BA%8F%E5%AE%B9%E5%99%A8%E9%80%82%E9%85%8D%E5%99%A8%EF%BC%88%E6%A0%88%E4%B8%8E%E9%98%9F%E5%88%97%EF%BC%89/"/>
     <id>https://fyin.top/2019/05/12/C-%E4%B9%8B%E9%A1%BA%E5%BA%8F%E5%AE%B9%E5%99%A8%E9%80%82%E9%85%8D%E5%99%A8%EF%BC%88%E6%A0%88%E4%B8%8E%E9%98%9F%E5%88%97%EF%BC%89/</id>
     <published>2019-05-12T08:56:13.000Z</published>
-    <updated>2021-06-05T20:02:49.613Z</updated>
+    <updated>2022-04-23T07:07:27.299Z</updated>
     
     <content type="html"><![CDATA[<p><strong>适配器</strong>(adaptor)是一个通用概念，<strong>容器、迭代器、函数都有适配器</strong></p><p>C++标准库定义了三个顺序容器适配器：<strong>stack</strong>和 <strong>queue</strong>、<strong>priority_queue</strong></p><h2 id="栈-stack"><a href="#栈-stack" class="headerlink" title="栈 stack"></a>栈 stack</h2><p>头文件 <code>include &lt;stack&gt;</code></p><p><strong>底层</strong> 默认是通过<strong>deque</strong>实现，也可以通过<strong>list</strong>、<strong>vector</strong>实现。</p><p>关于deque</p><blockquote><p>双端队列，一种连续空间（实际上是一段一段的连续空间，并由一个map结构统一管理）容器；<br>类似于vector、string；<br>deque能够支持快速的随机访问；<br>在头部和尾部添加、删除元素非常快速；<br>但在中间删除和添加元素比较费时。</p></blockquote><p>stack支持的操作</p><figure class="highlight cpp"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">s.<span class="built_in">pop</span>()</span><br><span class="line">s.<span class="built_in">push</span>()</span><br><span class="line">s.<span class="built_in">emplace</span>()</span><br><span class="line">s.<span class="built_in">top</span>()</span><br><span class="line"></span><br></pre></td></tr></table></figure><h2 id="队列-queue、priority-queue"><a href="#队列-queue、priority-queue" class="headerlink" title="队列 queue、priority_queue"></a>队列 queue、priority_queue</h2><p>queue提供普通的先进先出的队列功能；priority_queue允许我们为队列中的元素建立优先级</p><p>头文件 <code>#include &lt;queue&gt;</code></p><p><strong>queue</strong>默认是通过<strong>deque</strong>实现；<strong>priority_queue</strong>默认是通过<strong>vector</strong>实现<br>queue也可以通过list或vector实现；priority_queue也可以通过deque实现</p><p>queue支持的操作</p><figure class="highlight cpp"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">q.<span class="built_in">pop</span>()<span class="comment">//弹出队首元素</span></span><br><span class="line">q.<span class="built_in">push</span>()<span class="comment">//在队尾追加</span></span><br><span class="line">q.<span class="built_in">emplace</span>()<span class="comment">//在队尾追加</span></span><br><span class="line"></span><br><span class="line">q.<span class="built_in">front</span>()<span class="comment">//返回队首元素</span></span><br><span class="line">q.<span class="built_in">back</span>()<span class="comment">//返回队尾元素，仅适用于queue</span></span><br><span class="line"></span><br></pre></td></tr></table></figure><p>priority_queue另外支持的操作</p><figure class="highlight cpp"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">q.<span class="built_in">top</span>()<span class="comment">//返回优先级最高的元素，仅适用于priority_queue</span></span><br><span class="line"></span><br></pre></td></tr></table></figure>]]></content>
     
@@ -61,9 +58,7 @@
     
     
     
-    <category term="技术" scheme="https://fyin.top/tags/%E6%8A%80%E6%9C%AF/"/>
-    
-    <category term="计算机" scheme="https://fyin.top/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+    <category term="programming" scheme="https://fyin.top/tags/programming/"/>
     
   </entry>
   
@@ -72,7 +67,7 @@
     <link href="https://fyin.top/2018/12/22/%E9%93%BE%E6%8E%A5/"/>
     <id>https://fyin.top/2018/12/22/%E9%93%BE%E6%8E%A5/</id>
     <published>2018-12-22T06:44:35.000Z</published>
-    <updated>2018-12-22T06:47:48.000Z</updated>
+    <updated>2022-04-23T07:06:43.911Z</updated>
     
     <content type="html"><![CDATA[<p>关于链接的知识，来自CSAPP</p><h2 id="可重定位目标文件（ELF格式）"><a href="#可重定位目标文件（ELF格式）" class="headerlink" title="可重定位目标文件（ELF格式）"></a>可重定位目标文件（ELF格式）</h2><ul><li>头（ELF header）</li><li>节（sections）： .text .data    …    .symtab .rel.text .rel.data  …</li><li>节头部表（section header table）</li></ul><h2 id="step1-符号解析（Symbol-Resolution）"><a href="#step1-符号解析（Symbol-Resolution）" class="headerlink" title="step1 符号解析（Symbol Resolution）"></a>step1 符号解析（Symbol Resolution）</h2><p>把每个引用，包括全局变量和函数，与<strong>符号表</strong>symtab中一个确定的符号定义关联起来</p><h2 id="step2：重定位（Relocation）"><a href="#step2：重定位（Relocation）" class="headerlink" title="step2：重定位（Relocation）"></a>step2：重定位（Relocation）</h2><ol><li><p>聚合节 ，包括 .text ，.data</p></li><li><p>修改符号引用，依赖于 .rel.text .rel.data</p></li></ol><h2 id="常用函数打包"><a href="#常用函数打包" class="headerlink" title="常用函数打包"></a>常用函数打包</h2><ul><li>静态库（Static Libraries）</li><li>共享库（Shared Libraries）</li></ul>]]></content>
     
@@ -86,9 +81,7 @@
     
     
     
-    <category term="技术" scheme="https://fyin.top/tags/%E6%8A%80%E6%9C%AF/"/>
-    
-    <category term="计算机" scheme="https://fyin.top/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+    <category term="programming" scheme="https://fyin.top/tags/programming/"/>
     
   </entry>
   
@@ -97,7 +90,7 @@
     <link href="https://fyin.top/2018/10/11/gcc%E7%9A%84%E4%BD%BF%E7%94%A8/"/>
     <id>https://fyin.top/2018/10/11/gcc%E7%9A%84%E4%BD%BF%E7%94%A8/</id>
     <published>2018-10-11T11:15:03.000Z</published>
-    <updated>2021-06-05T19:34:35.624Z</updated>
+    <updated>2022-04-23T07:07:38.711Z</updated>
     
     <content type="html"><![CDATA[<p>GCC编译系统：</p><p>​    预处理        编译器        汇编器        链接</p><p>.c    ——&gt;     .i    ——&gt;    .s    ——&gt;    .o    ——&gt;    prog</p><p><code>gcc -Og -S xx.c</code></p><p>-Og 优化等级，还可以是 -O1，-O2</p><p>-S 生成汇编文件xx.s</p><p><code>gcc -Og -c xx.c</code></p><p>-c 生成目标代码文件xx.o</p><p>-E 只运行预处理器</p><p>-o 产生目标文件，后面紧跟要生成的可执行文件名</p><p>反汇编：</p><p><code>objdump -d xx.o</code></p><p><code>objdump -d prog</code></p>]]></content>
     
@@ -112,9 +105,7 @@
     
     
     
-    <category term="技术" scheme="https://fyin.top/tags/%E6%8A%80%E6%9C%AF/"/>
-    
-    <category term="计算机" scheme="https://fyin.top/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+    <category term="programming" scheme="https://fyin.top/tags/programming/"/>
     
   </entry>
   
@@ -123,7 +114,7 @@
     <link href="https://fyin.top/2018/09/27/SSH%E5%88%9D%E6%8E%A2/"/>
     <id>https://fyin.top/2018/09/27/SSH%E5%88%9D%E6%8E%A2/</id>
     <published>2018-09-26T16:41:03.000Z</published>
-    <updated>2018-09-26T16:44:00.000Z</updated>
+    <updated>2022-04-23T07:07:43.260Z</updated>
     
     <content type="html"><![CDATA[<p>SSH（Secure Socket Shell）是一种远程访问协议。它能够基于不安全的网络环境，实现强认证、加密传输，避免中间人攻击。<br>Telnet、RSH等协议采用明文传输，使用不可靠的密码，易受到监听、嗅探和中间人攻击。<br>SSH有安全漏洞。</p><h2 id="加密方式：非对称加密"><a href="#加密方式：非对称加密" class="headerlink" title="加密方式：非对称加密"></a>加密方式：非对称加密</h2><p>先看对称加密：</p><p>是加密和解密都使用同一个密钥（或者两个可以相互推算的密钥），这组密钥是两个或多个成员之间的共同秘密。常见的DES、3DES、AES、Blowfish、IDEA、RC5、RC6。优点是比较快。</p><p>非对称加密：<br>使用两个不同的密钥，且不能相互推算。一个公开，任意向外发布，称为公钥；另一个由用户秘密保管。数字签名就是基于公钥的特性。</p><p>加密过程：<br>任何人都可以使用公钥加密明文，但只有私钥持有者可以解密该密文。————购物网站登录过程，使用网站提供的公钥加密敏感信息，只有受信任的网络服务器可以解密信息。<br>某一用户使用私钥加密明文，通过公钥，任何人都可以解密秘文。————利用这一特性可以实现数字签名（私钥加密），通过电子证书（公钥解密）可以核实该信息是否来自某一用户。</p><h2 id="典型用途"><a href="#典型用途" class="headerlink" title="典型用途"></a>典型用途</h2><p>登录远程电脑，执行命令；也支持隧道协议、端口映射、X11连接等；还可以借助SFTP、rsync、SCP、FISH(Files transferred over shell protocol)、 FASP(Fast and Secure Protocol)等协议传输文件。<br>SSH使用C/S服务架构</p><h2 id="SSH协议框架："><a href="#SSH协议框架：" class="headerlink" title="SSH协议框架："></a>SSH协议框架：</h2><p>SSH协议框架中最主要的部分是三个协议：</p><p>传输层协议（The Transport Layer Protocol）：传输层协议提供服务器认证，数据机密性，信息完整性等的支持。<br>用户认证协议（The User Authentication Protocol）：用户认证协议为服务器提供客户端的身份鉴别。<br>连接协议（The Connection Protocol）：连接协议将加密的信息隧道复用成若干个逻辑通道，提供给更高层的应用协议使用。<br>同时还有为许多高层的网络安全应用协议提供扩展的支持。</p><p>各种高层应用协议可以相对地独立于SSH基本体系之外，并依靠这个基本框架，通过连接协议使用SSH的安全机制。</p>]]></content>
     
@@ -137,9 +128,7 @@
     
     
     
-    <category term="技术" scheme="https://fyin.top/tags/%E6%8A%80%E6%9C%AF/"/>
-    
-    <category term="网络" scheme="https://fyin.top/tags/%E7%BD%91%E7%BB%9C/"/>
+    <category term="programming" scheme="https://fyin.top/tags/programming/"/>
     
   </entry>
   
@@ -148,7 +137,7 @@
     <link href="https://fyin.top/2018/09/02/%E5%85%B3%E4%BA%8E%E5%B9%B6%E5%8F%91%E4%B8%8E%E5%B9%B6%E8%A1%8C/"/>
     <id>https://fyin.top/2018/09/02/%E5%85%B3%E4%BA%8E%E5%B9%B6%E5%8F%91%E4%B8%8E%E5%B9%B6%E8%A1%8C/</id>
     <published>2018-09-02T12:39:20.000Z</published>
-    <updated>2018-09-15T15:00:24.000Z</updated>
+    <updated>2022-04-23T07:07:08.641Z</updated>
     
     <content type="html"><![CDATA[<p>读CSAPP，增进了对并发与并行的理解，总结如下</p><blockquote><p><strong>并发</strong>：是一个通用概念，指一个同时有多个活动的系统。</p><p><strong>并行</strong>：利用各种并发的机制使系统运行得更快。</p></blockquote><p>从不同的计算机系统抽象层次上，并行可以有以下几重实现：</p><h4 id="1-线程级并行"><a href="#1-线程级并行" class="headerlink" title="1 线程级并行"></a>1 线程级并行</h4><p>引入线程，可以在一个进程内执行多个控制流。单处理器的并发是通过共享时间模拟出来的。</p><p><strong>多核</strong>处理器，多个CPU集成到一个芯片上，每个核有自己的L1、L2高速缓存，而共享更高层次的缓存。</p><p><strong>超线程</strong>处理器，每个CPU内部，执行多个控制流。实现的机制是CPU的某些硬件有多个备份，如程序计数器和寄存器文件，其他硬件部分只有一份（浮点数算术运算单元等）。</p><h4 id="2-指令及并行"><a href="#2-指令及并行" class="headerlink" title="2 指令及并行"></a>2 指令及并行</h4><p><strong>超标量</strong>：在<strong>流水线</strong>中，每个指令被分解为不同的步骤，将处理器硬件组织成一系列的阶段，每个阶段执行一个步骤。这些阶段可以并行操作，执行不同指令的不同部分。</p><p>超标量操作可以达到接近于一个时钟周期执行一条指令的速度。现代处理器一般都支持超标量。</p><h4 id="3-单指令多数据（SIMD）并行"><a href="#3-单指令多数据（SIMD）并行" class="headerlink" title="3 单指令多数据（SIMD）并行"></a>3 单指令多数据（SIMD）并行</h4><p>一些现代处理器拥有特殊的硬件，通过一条指令可以并行计算多份数据。</p><p>比如较新的Intel和AMD处理器可以并行对8对float进行加法运算；这种<strong>SIMD指令</strong>多是为了提高处理图像、视频等数据的处理速度。</p>]]></content>
     
@@ -164,9 +153,7 @@
     
     
     
-    <category term="技术" scheme="https://fyin.top/tags/%E6%8A%80%E6%9C%AF/"/>
-    
-    <category term="计算机" scheme="https://fyin.top/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+    <category term="programming" scheme="https://fyin.top/tags/programming/"/>
     
   </entry>
   
